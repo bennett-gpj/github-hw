@@ -6,8 +6,8 @@ This is a sample document so I can see how GitHub works.
 
 _italic_
 
-##big text
+## big text
 
-###bigger text
+### bigger text
 
 [here] (url)
